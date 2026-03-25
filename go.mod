@@ -9,7 +9,7 @@ require (
 	github.com/google/go-cmp v0.7.0
 	github.com/json-iterator/go v1.1.12
 	github.com/kubeflow/mpi-operator v0.7.0
-	github.com/kubeflow/trainer/v2 v2.1.0
+	github.com/kubeflow/trainer/v2 v2.2.0
 	github.com/kubeflow/training-operator v1.9.3
 	github.com/onsi/ginkgo/v2 v2.27.5
 	github.com/onsi/gomega v1.39.0
